@@ -1,0 +1,3 @@
+title=kivycamandroidtest
+author=zullum
+orientation=portrait
